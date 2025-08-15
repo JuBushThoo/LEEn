@@ -28,7 +28,7 @@ A modern Telegram bot powered by artificial intelligence, built on microservices
 │   ├── middlewares/      # Middleware components
 │   ├── utils/           # Utilities and helpers
 │   └── requirements.txt
-├── backend/              # FastAPI REST API and Large AI models
+├── backend/              # FastAPI REST API
 │   ├── main.py          # FastAPI application
 │   ├── routers/         # API routes
 │   ├── models/          # SQLAlchemy models
@@ -36,7 +36,7 @@ A modern Telegram bot powered by artificial intelligence, built on microservices
 │   └── requirements.txt
 ├── db/                   # PostgreSQL configuration
 │   └── init.sql         # Database initialization script
-├── ai/                   # fast AI logic
+├── ai/                   #  AI logic
 │   ├── prompt_engine.py # Prompt tuning engine
 │   ├── models/          # AI models
 │   └── utils/           # AI utilities
