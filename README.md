@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Telegram Bot
+# 🤖 LEEn - Lazy Escape Engine now 
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
